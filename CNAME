@@ -1,1 +1,3 @@
-demo.kathan.dev
+Type: CNAME
+Name: demo
+Value: kathan.dev
